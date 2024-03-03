@@ -1,10 +1,18 @@
 
-![Logo](https://raw.githubusercontent.com/gbana/CreativityHS-In/9c013945895280386fd8924b4b0d72bbe0f9422c/public/assets/logo-text.png)
 
+
+<p align="center">
+  <img height=250 src="https://raw.githubusercontent.com/hyun5eok/creativityIn/master/Logo.png"/>
+</p>
+<p align="center">
+  <strong>I wanna Die 🚀</strong>
+</p>
+
+---
 
 ## Notice
 
-창의고 동아리 (소프트웨어 융합 인재 연구부) 실적물로써 창의고에서 기존에 사용하던 리로스쿨이라는 외세로부터 벗어나 독자적인 운영을 하기 위해 만들었다.
+창의고 동아리 (소프트웨어 융합 인재 연구부) 실적물로써 창의고에서 기존에 사용되던 리로스쿨을 대신하기 위해 제작되었다
 
 
 
@@ -14,5 +22,4 @@
 
 ## Tech Stack
 
-저는 PHP신봉자임미다
-
+LAMP Stack
