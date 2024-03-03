@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img height=150 src="https://raw.githubusercontent.com/hyun5eok/creativityIn/master/logo.svg"/>
+  <img height=110 src="https://raw.githubusercontent.com/hyun5eok/creativityIn/master/logo.svg"/>
 </p>
 <p align="center">
   <strong>I wanna Die 🚀</strong>
