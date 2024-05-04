@@ -1,11 +1,13 @@
 
-
+<br/>
+<br/>
+<br/>
 
 <p align="center">
   <img height=85 src="https://raw.githubusercontent.com/hyun5eok/creativityIn/master/logo.svg"/>
 </p>
 <p align="center">
-  <strong>I wanna Die 🚀</strong>
+  <strong>2023년에 개발된 창의고등학교 인트라넷</strong>
 </p>
 
 ---
